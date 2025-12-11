@@ -2,7 +2,7 @@
 
 A full-stack MERN (MongoDB, Express, React, Node.js) application designed to track loans, investments, and interest calculations. This application features a dual-role system (Lender/Borrower), real-time portfolio visualization, and professional reporting tools.
 
-![Dashboard Preview](client\public\image_SS.png) 
+![Dashboard Preview](client/public/image_SS.png) 
 *(Replace this link with a real screenshot of your dashboard later!)*
 
 ## 🚀 Key Features
